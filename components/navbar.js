@@ -42,25 +42,25 @@ export default function Example() {
               <div className="hidden md:flex items-center justify-end md:flex-1 lg:w-0">
                 <a
                   href="/components"
-                  class="hidden sm:block hover:text-gray-900"
+                  className="hidden sm:block hover:text-gray-900"
                 >
                   Features
                 </a>
                 <a
                   href="/documentation"
-                  class="hidden sm:block ml-6 mr-2 hover:text-gray-900"
+                  className="hidden sm:block ml-6 mr-2 hover:text-gray-900"
                 >
                   Video
                 </a>
                 <a
                   href="/documentation"
-                  class="hidden sm:block ml-6 mr-2 hover:text-gray-900"
+                  className="hidden sm:block ml-6 mr-2 hover:text-gray-900"
                 >
                   Team
                 </a>
                 <a
                   href="/documentation"
-                  class="hidden sm:block ml-6 mr-2 hover:text-gray-900"
+                  className="hidden sm:block ml-6 mr-2 hover:text-gray-900"
                 >
                   Presse
                 </a>
@@ -107,25 +107,25 @@ export default function Example() {
                     <nav className="grid gap-y-8">
                       <a
                         href="/components"
-                        class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
+                        className="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
                       >
                         Features
                       </a>
                       <a
                         href="/documentation"
-                        class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
+                        className="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
                       >
                         Video
                       </a>
                       <a
                         href="/documentation"
-                        class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
+                        className="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
                       >
                         Team
                       </a>
                       <a
                         href="/documentation"
-                        class="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
+                        className="-m-3 p-3 flex items-center rounded-md hover:bg-gray-50"
                       >
                         Presse
                       </a>

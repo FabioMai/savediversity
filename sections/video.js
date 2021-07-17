@@ -1,4 +1,4 @@
-export default function Demo() {
+export default function Video() {
   return (
     <div className="py-16 bg-gray-50 overflow-hidden lg:py-24">
       <div className="relative max-w-xl mx-auto px-4 sm:px-6 lg:px-8 lg:max-w-7xl">
@@ -37,28 +37,15 @@ export default function Demo() {
         </svg>
 
         <div className="relative">
-          <h2 className="text-center text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-            Demo
-          </h2>
-          <p className="mt-4 max-w-3xl mx-auto text-center text-xl text-gray-500">
-            Nutze unseren Figma-Prototyp, um dir einen EIndruck über die
-            Möglichkeiten von SAVEDiversity zu verschaffen!
-          </p>
-          <iframe
-            className="mx-auto mt-16 w-full max-w-4xl"
-            width="800"
-            height="450"
-            src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FQKDMEIk7w5HDY9hN7LGbim%2FSAVEDiversity-Appentwurf%3Fnode-id%3D6%253A2%26scaling%3Dscale-down"
-            allowFullScreen
-          ></iframe>
           <p className="mt-12 max-w-3xl mx-auto text-center text-xl text-gray-500">
-            Das Pitch-Video zum Prototyp:
+            Das Video zum Wettbewerb
           </p>
           <iframe
             className="mx-auto mt-16 w-full max-w-4xl"
             width="840"
             height="473"
-            src="https://www.youtube-nocookie.com/embed/sEh7RWPNvZ0"
+            src="https://www.youtube-nocookie.com/embed/f9Ac4L9BhsY"
+            title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen

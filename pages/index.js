@@ -1,11 +1,8 @@
 import Head from "next/head";
-import Image from "next/image";
-import Navbar from "../components/navbar";
-import Header from "../sections/header";
-import Features from "../sections/features";
-import Demo from "../sections/demo";
+import CTA from "../sections/cta";
+import VideoHeader from "../sections/video-header";
 import Team from "../sections/team";
-import Presse from "../sections/presse";
+import Video from "../sections/video";
 import Footer from "../sections/footer";
 
 export default function Home() {
@@ -13,17 +10,14 @@ export default function Home() {
     <>
       <Head>
         <title>SAVEDiversity</title>
-        <meta name="description" content="Landing Page der SAVEDiversity App" />
+        <meta name="description" content="Landing Page von SAVEDiversity" />
         <link rel="stylesheet" href="https://rsms.me/inter/inter.css"></link>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      <Navbar></Navbar>
-      <Header></Header>
-      <Features></Features>
-      <Demo></Demo>
+      <VideoHeader></VideoHeader>
+      <CTA></CTA>
+      <Video></Video>
       <Team></Team>
-      <Presse></Presse>
       <Footer></Footer>
     </>
   );
