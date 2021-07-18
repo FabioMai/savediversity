@@ -1,3 +1,25 @@
+🦋🌼🦉🌾🐰🐞🌻🪱🌳
+SAVEDiversity ist am Start! 
+
+🏞️ Worum geht es?
+Wir sind ein bunt gemischtes Team aus 5 Personen unterschiedlichster Fachrichtungen: der Ökologie, der IT, dem Wirtschaftsingenieurswesen, dem Projektmanagement und dem Marketing. Und wir haben ein gemeinsames Ziel: Mehr Aufmerksamkeit für das Thema Biodiversität, mit besonderem Fokus auf Bayern. 
+
+💡 Wie soll das funktionieren?
+Wir bauen eine Plattform, die es so in dieser Form noch nicht gibt. Nutzer*innen finden dort
+
+👀 verständlich aufbereitete Informationen - umfassend, aktuell und unterhaltsam
+🖥️ News aus Wissenschaft und Politik rund ums Thema Biodiversität
+🐝 kleine und große Projekte aus ganz Bayern, die sich für mehr Biodiversität einsetzen
+💚 die Möglichkeit, sich selbst bei seinen Lieblingsprojekten zu engagieren
+
+🪄 Wie kann man uns unterstützen?
+SAVEDiversity hat es beim Ideenwettbewerb "Ausgewildert" unter die Top 20 geschafft! Jetzt geht's ins Rennen um den Publikumspreis 😊 Wer uns unterstützen möchte, kann unter diesem Link
+
+www.ausgewildert.bayern.de/voting
+
+ganz einfach für uns voten. Dazu ist lediglich die Angabe einer Mailadresse notwenig, die nur für die Dauer des Wettbewerbs gespeichert wird. Einfach den Link anklicken, zum Projekt Nr. 17 scrollen und eine Stimme für SAVEDiversity abgeben. Wir freuen uns über jede Unterstützung!
+
+# Tech
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
