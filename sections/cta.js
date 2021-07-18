@@ -1,7 +1,7 @@
 export default function CTA() {
   return (
     <section className="prose lg:prose-lg mx-auto p-5" id="cta">
-      🦋🌼🦉🌾🐰🐞🌻🪱🌳 <h1>SAVEDiversity ist am Start!</h1>{" "}
+      🦋🌼🦉🌾🐰🐞🌻🌳 <h1>SAVEDiversity ist am Start!</h1>{" "}
       <p>
         <h3>
           <i>🏞️ Worum geht es?</i>

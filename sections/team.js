@@ -15,6 +15,10 @@ const people = [
     name: "Fabio Maienschein",
     imageUrl: "/images/team-fabio.jpg",
   },
+  {
+    name: "Mark Kolbe",
+    imageUrl: "/images/team-mark.jpg",
+  },
 ];
 
 export default function Team() {
