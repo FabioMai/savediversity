@@ -25,19 +25,11 @@ export default function CTA() {
       </p>{" "}
       <p>
         <h3>
-          <i>Wie kann man uns unterstützen?</i>
+          <i>Wo kann man auf dem Laufenden bleiben?</i>
         </h3>{" "}
-        SAVEDiversity hat es beim Ideenwettbewerb "Ausgewildert" unter die Top
-        20 geschafft! Jetzt geht's ins Rennen um den Publikumspreis 😊 Wer uns
-        unterstützen möchte, kann unter diesem Link{" "}
-        <a href="www.ausgewildert.bayern.de/voting">
-          www.ausgewildert.bayern.de/voting
-        </a>{" "}
-        ganz einfach für uns voten. Dazu ist lediglich die Angabe einer
-        Mailadresse notwenig, die nur für die Dauer des Wettbewerbs gespeichert
-        wird. Einfach den Link anklicken, zum Projekt Nr. 17 scrollen und eine
-        Stimme für SAVEDiversity abgeben. Wir freuen uns über jede
-        Unterstützung! Vielen Dank im Namen des ganzen Teams 👏😄
+        Folge uns auf{" "}
+        <a href="https://www.instagram.com/savediversity/">Instagram</a> oder
+        kontaktiere uns via kontakt@savediversity.de!
       </p>
       <p>
         <i>
