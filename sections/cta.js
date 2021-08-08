@@ -21,7 +21,16 @@ export default function CTA() {
         umfassend, aktuell und unterhaltsam 🖥️ News aus Wissenschaft und Politik
         rund ums Thema Biodiversität 🐝 kleine und große Projekte aus ganz
         Bayern, die sich für mehr Biodiversität einsetzen 💚 die Möglichkeit,
-        sich selbst bei seinen Lieblingsprojekten zu engagieren
+        sich selbst bei seinen Lieblingsprojekten zu engagieren.
+        <br></br>
+        Aktuell arbeiten wir die Idee weiter aus und nehmen an{" "}
+        <a
+          href="https://www.ausgewildert.bayern.de/voting/savediversity.html"
+          target="_blank"
+        >
+          Wettbewerben
+        </a>{" "}
+        zum Thema Biodiversität & Umweltschutz teil.
       </p>{" "}
       <p>
         <h3>
